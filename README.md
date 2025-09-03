@@ -14,7 +14,7 @@ My research primarily focuses on **$SNe\ Ia$ Cosmology** and understanding the u
 -   Bayesian Inference and Statistical Methods in Cosmology
 -   Dark Energy and Modified Gravity
 
-![Quantum Simulation Animation](./hybrid_quantum_gravity.gif)
+![Quantum Simulation Animation](./quantum_gravity.gif)
 
 ---
 

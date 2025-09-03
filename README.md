@@ -11,11 +11,10 @@ My research primarily focuses on **$SNe\ Ia$ Cosmology** and understanding the u
 -   Type Ia Supernovae ($SNe\ Ia$) Progenitor Systems
 -   Cosmological Simulations & Numerical Astrophysics
 -   Quantum Computing for Astrophysics
-    Quantum Simulation Animation](images/my_animation.gif)
-
 -   Bayesian Inference and Statistical Methods in Cosmology
 -   Dark Energy and Modified Gravity
 
+![Quantum Simulation Animation](./hybrid_quantum_gravity.gif)
 
 ---
 

@@ -1,3 +1,5 @@
+https://i.imgur.com/O5UCx3Z.gif
+
 ### Hi there, I'm Inhyuk Park 👋
 
 I am a Ph.D. student at **Yonsei University**, specializing in theoretical cosmology. 

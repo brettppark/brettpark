@@ -4,7 +4,7 @@
 I am a Ph.D. student at **Yonsei University**, specializing in theoretical cosmology. 
 
 My research primarily focuses on **$SNe\ Ia$ Cosmology** and understanding the underlying physics of the accelerating universe. I utilize large-scale hydrodynamical simulations like **IllustrisTNG** for my work, and I am also exploring the applications of **Quantum Computing (QC) for solving complex problems in astrophysics**.
-
+![github logo test](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 ---
 
 ### 🔭 My Research Interests

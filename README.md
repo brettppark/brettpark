@@ -1,4 +1,4 @@
-![quantum gravity gif](https://i.imgur.com/O5UCx3Z.gif)
+![quantum_gravity](https://i.imgur.com/G13fOjZ.gif)
 
 ### Hi there, I'm Inhyuk Park 👋
 

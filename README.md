@@ -1,4 +1,3 @@
-![quantum_gravity](https://i.imgur.com/G13fOjZ.gif)
 
 ### Hi there, I'm Inhyuk Park 👋
 
@@ -16,7 +15,7 @@ My research primarily focuses on **$SNe\ Ia$ Cosmology** and understanding the u
 -   Bayesian Inference and Statistical Methods in Cosmology
 -   Dark Energy and Modified Gravity
 
-![Quantum Simulation Animation](./quantum_gravity.gif)
+![quantum_gravity](https://i.imgur.com/G13fOjZ.gif)
 
 ---
 

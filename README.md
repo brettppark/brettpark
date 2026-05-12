@@ -45,7 +45,7 @@ You can find my publications and academic activities here:
   <a href="https://orcid.org/[0009-0007-7069-4414">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=[YOUR-SCHOLAR-ID]">
+  <a href="https://scholar.google.com/citations?user=oiHSF3kAAAAJ">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
   <a href="https://arxiv.org/a/park_i_2">
